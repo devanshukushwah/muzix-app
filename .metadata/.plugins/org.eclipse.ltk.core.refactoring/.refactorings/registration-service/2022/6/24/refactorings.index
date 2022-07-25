@@ -1,0 +1,11 @@
+1654846906275	Rename package 'com.cg.model'
+1654846917595	Rename package 'com.cg'
+1654847210387	Rename type 'RegistrationService'
+1654847216563	Rename type 'RegistrationServiceImpl'
+1654847234365	Rename compilation unit 'RegistrationController.java'
+1654942222160	Rename package 'com.registration'
+1654942229026	Rename package 'com.registration.controller'
+1654942234620	Rename package 'com.registration.model'
+1654942239548	Rename package 'com.registration.repository'
+1654942245100	Rename package 'com.registration.service'
+1654944184443	Copy compilation unit
